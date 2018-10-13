@@ -1,4 +1,5 @@
 using System.Threading;
+using FluentAssertions;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace EPAM.Core.ReportHelper.Tests
@@ -20,7 +21,7 @@ namespace EPAM.Core.ReportHelper.Tests
         {
             var result = ReportNameHelper.NormalizeFileName(name, repl);
             Assert.AreEqual(result, expected);
-            //result.Should().BeEquivalentTo(expected);
+            result.Should().BeEquivalentTo(expected);
         }
     }
 }

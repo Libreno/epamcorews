@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPAM.CoreWorkshop.ReportHel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPAM.CoreWorkshop.ReportHelper.Tests", "EPAM.CoreWorkshop.ReportHelper.Tests\EPAM.CoreWorkshop.ReportHelper.Tests.csproj", "{3AE285C1-34D5-4B62-A8FA-94DF971BD78E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPAM.CoreWorkshop.TestConsoleApp", "EPAM.CoreWorkshop.TestConsoleApp\EPAM.CoreWorkshop.TestConsoleApp.csproj", "{A08CCBAA-B9AC-4663-9461-E165AF9605DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{3AE285C1-34D5-4B62-A8FA-94DF971BD78E}.Release|x64.Build.0 = Release|Any CPU
 		{3AE285C1-34D5-4B62-A8FA-94DF971BD78E}.Release|x86.ActiveCfg = Release|Any CPU
 		{3AE285C1-34D5-4B62-A8FA-94DF971BD78E}.Release|x86.Build.0 = Release|Any CPU
+		{A08CCBAA-B9AC-4663-9461-E165AF9605DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08CCBAA-B9AC-4663-9461-E165AF9605DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08CCBAA-B9AC-4663-9461-E165AF9605DA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A08CCBAA-B9AC-4663-9461-E165AF9605DA}.Debug|x64.Build.0 = Debug|Any CPU
+		{A08CCBAA-B9AC-4663-9461-E165AF9605DA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A08CCBAA-B9AC-4663-9461-E165AF9605DA}.Debug|x86.Build.0 = Debug|Any CPU
+		{A08CCBAA-B9AC-4663-9461-E165AF9605DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08CCBAA-B9AC-4663-9461-E165AF9605DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A08CCBAA-B9AC-4663-9461-E165AF9605DA}.Release|x64.ActiveCfg = Release|Any CPU
+		{A08CCBAA-B9AC-4663-9461-E165AF9605DA}.Release|x64.Build.0 = Release|Any CPU
+		{A08CCBAA-B9AC-4663-9461-E165AF9605DA}.Release|x86.ActiveCfg = Release|Any CPU
+		{A08CCBAA-B9AC-4663-9461-E165AF9605DA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
